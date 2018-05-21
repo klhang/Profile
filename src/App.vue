@@ -18,26 +18,27 @@
     },
     data() {
       return {
-        interval: 40,
+        interval: 1,
         currentStyle: '',
         enableHtml: false,
         fullStyle: [
-          `/*
+          `
+/*
 * Inspired by http://strml.net/
-* 大家好，我是方方
-* 二月了，好多公司都在招聘，你是不是也在准备简历呀。
-* 说做就做，我也来写一份简历！
+* Hi, I am Chris Guan.
+* People are saying the summer hiring season is coming, I think I should also doing something.
+* Alright, let me start with my resume.
 */
 
-/* 首先给所有元素加上过渡效果 */
+/* First, I need to add some animation on all of the elements */
 * {
   transition: all .3s;
 }
-/* 白色背景太单调了，我们来点背景 */
+/* The white background is kind of boring, let's add some color */
 html {
   color: rgb(222,222,222); background: rgb(0,43,54);
 }
-/* 文字离边框太近了 */
+/* The texts seem to be too close to the boarder */
 .styleEditor {
   padding: .5em;
   border: 1px solid;
@@ -45,13 +46,13 @@ html {
   overflow: auto;
   width: 45vw; height: 90vh;
 }
-/* 代码高亮 */
+/* And let's highlight the codes */
 .token.selector{ color: rgb(133,153,0); }
 .token.property{ color: rgb(187,137,0); }
 .token.punctuation{ color: yellow; }
 .token.function{ color: rgb(42,161,152); }
 
-/* 加点 3D 效果呗 */
+/* How about some 3D animation */
 html{
   perspective: 1000px;
 }
@@ -63,7 +64,7 @@ html{
           transform: rotateY(10deg) translateZ(-100px) ;
 }
 
-/* 接下来我给自己准备一个编辑器 */
+/* Next, guess I need an editor */
 .resumeEditor{
   position: fixed; right: 0; top: 0;
   padding: .5em;  margin: .5em;
@@ -72,19 +73,19 @@ html{
   background: white; color: #222;
   overflow: auto;
 }
-/* 好了，我开始写简历了 */
+/* All set, let me work on my resume */
 
 
 `,
           `
-/* 这个简历好像差点什么
- * 对了，这是 Markdown 格式的，我需要变成对 HR 更友好的格式
- * 简单，用开源工具翻译成 HTML 就行了
+/* Em... this looks wired
+ * Oh，this is in Markdown，I want it to be more HR-friendly
+ * Let me turn it into HTML
  */
 `
           ,
           `
-/* 再对 HTML 加点样式 */
+/* And add some styling on the HTML */
 .resumeEditor{
   padding: 2em;
 }
@@ -115,35 +116,69 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `
+Chris Guan
 ----
+Software Developer
 
-资深前端工程师，资深前端讲师，现在在 [饥人谷](http://jirengu.com) 教前端课程。
 
-技能
+Skills
 ----
+* Language：Java, JavaScript, Ruby, Python, TypeScript
+* Frontend Framework: React, Angular2
+* Web app Framework: Express, Django, Flask, RubyOnRails
+* Database: MongoDB, Redis, PostgreSQL, SQLite3
+* DevOps: Jenkins, Aws CodePipelin, EC2, IMA, Route53, CloudWatch
+* Others: Docker, Nginx, RabbitMQ, Postman, NodeJS, Materialize, HTML, CSS, Git
 
-* 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
 
-工作经历
+Projects
 ----
+<ol>
+<li>Scape News: Real Time News Scraping and Filtering System.</li>
+<ul>
+<a href="http://" target="_blank">Demo</a> <br>
+<a href="http://www.thescapenews.com" target="_blank">Site</a> <br>
+<a href="https://github.com/klhang/Scape-News" target="_blank">GitHub</a>  <br>
+Skills: JavaScript, Java, Python, React, Express, Node.js, Flask, Redis, MongoDB, RabbitMQ, TF-IDF, Postman, Jenkins, Aws.
+</ul>
+<br>
+<br>
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
 
-链接
+<li>Translate Overflow: A System for Sharing and Improving Translation Skills.</li>
+<ul>
+<a href="http://" target="_blank">Demo</a> <br>
+<a href="https://translateoverflow.herokuapp.com" target="_blank">Site</a> <br>
+<a href="https://github.com/Adrianjewell91/tl_overflow" target="_blank">GitHub</a>  <br>
+Skills: JavaScript, Python, React, Django, SQLite3, Materialize, RESTful API, CSS, HTML
+</ul>
+<br>
+<br>
+
+<li>CodeLab: A Collaborative Online Coding System.</li>
+<ul>
+<a href="http://" target="_blank">Demo</a> <br>
+<a href="http://www.thescapenews.com" target="_blank">Site</a> <br>
+<a href="https://github.com/klhang/Collaborative-Online-Judge" target="_blank">GitHub</a>  <br>
+Skills: JavaScript, TypeScript, Python, Angular2, Node.js, Flask, Redis, MongoDB, Docker, RESTful API, Nginx, Jenkins, Aws
+</ul>
+<br>
+<br>
+
+<li>Clora: A Clone System of Quora.</li>
+<ul>
+<a href="http://" target="_blank">Demo</a> <br>
+<a href="https://tryclora.herokuapp.com/" target="_blank">Site</a> <br>
+<a href="https://github.com/klhang/Clora">GitHub</a>  <br>
+Skills: JavaScript, Ruby, React, Redux, Ruby on Rials, JQuery, RESTful API, Heroku, Postman
+</ul>
+</ol>
+
+Link
 ----
-
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
-
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
-
+<a href="https://www.github.com/klhang" target="_blank">GitHub</a>  <br>
+<a href="https://www.linkedin.com/in/chris-guan" target="_blank">Linkedin</a>  <br>
 `
       }
     },
