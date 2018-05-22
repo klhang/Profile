@@ -147,7 +147,7 @@ ___
 <a href="http://" target="_blank">Demo</a>
 <a href="https://translateoverflow.herokuapp.com" target="_blank">Site</a>
 
-Skills: Python, React, Django, SQLite3, Materialize, RESTful API, CSS, HTML
+Skills: Python, React, Django, SQLite3, Materialize, RESTful API, Postman
 ___
 
 
@@ -165,7 +165,7 @@ ___
 <a href="http://" target="_blank">Demo</a>
 <a href="https://tryclora.herokuapp.com/" target="_blank">Site</a>
 
-Skills: JavaScript, Ruby, React, Redux, Ruby on Rials, JQuery, RESTful API, Postman
+Skills: JavaScript, Ruby, React, Redux, Ruby on Rials, JQuery, RESTful API
 ___
 
 
@@ -175,7 +175,7 @@ Link
 
 <a href="https://www.linkedin.com/in/chris-guan" target="_blank">Linkedin</a>
 
-a href="https://www.linkedin.com/in/chris-guan" target="_blank">Click here to download Chris’s resume.</a>
+<a href="https://www.linkedin.com/in/chris-guan" target="_blank">Click here to download Chris’s resume.</a>
 `
       }
     },

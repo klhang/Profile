@@ -162,7 +162,7 @@ ___
 <a href="https://translateoverflow.herokuapp.com" target="_blank">Site</a>
 <a href="https://github.com/Adrianjewell91/tl_overflow" target="_blank">GitHub</a>
 
-Skills: JavaScript, Python, React, Django, SQLite3, Materialize, RESTful API, CSS, HTML
+Skills: JavaScript, Python, React, Django, SQLite3, Materialize, RESTful API, Postman
 ___
 
 
@@ -191,6 +191,7 @@ Link
 
 <a href="https://www.linkedin.com/in/chris-guan" target="_blank">Linkedin</a>
 
+<a href="https://www.linkedin.com/in/chris-guan" target="_blank">Click here to download Chris’s resume.</a>
 `
       }
     },
