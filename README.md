@@ -7,7 +7,7 @@
 ## How to run
 
 ``` bash
-git clone git@github.com:jirengu-inc/animating-resume.git
+git clone https://github.com/klhang/Profile.git
 cd animating-resume
 npm install
 npm run dev

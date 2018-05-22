@@ -226,7 +226,7 @@ Link
       progressivelyShowResume() {
         return new Promise((resolve, reject) => {
           let length = this.fullMarkdown.length
-          let interval = this.interval
+          let interval = this.interval - 10
           let showResume = () => {
             if (this.currentMarkdown.length < length) {
               this.currentMarkdown = this.fullMarkdown.substring(0, this.currentMarkdown.length + 1)
