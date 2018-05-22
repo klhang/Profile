@@ -18,7 +18,7 @@
     },
     data() {
       return {
-        interval: 1,
+        interval: 30,
         currentStyle: '',
         enableHtml: false,
         fullStyle: [
@@ -176,6 +176,7 @@ ___
 Link
 ----
 <a href="https://www.github.com/klhang" target="_blank">GitHub</a>
+
 <a href="https://www.linkedin.com/in/chris-guan" target="_blank">Linkedin</a>
 
 `
