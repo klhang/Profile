@@ -42,7 +42,7 @@ html {
 .styleEditor {
   padding: .5em;
   border: 1px solid;
-  margin: .5em;
+  margin: 2em;
   overflow: auto;
   width: 45vw; height: 90vh;
 }
@@ -57,7 +57,7 @@ html{
   perspective: 1000px;
 }
 .styleEditor {
-  position: fixed; left: 0; top: 0;
+  position: fixed; left: 0; top: 1;
   -webkit-transition: none;
   transition: none;
   -webkit-transform: rotateY(10deg) translateZ(-100px) ;
@@ -67,7 +67,7 @@ html{
 /* Next, guess I need an editor */
 .resumeEditor{
   position: fixed; right: 0; top: 0;
-  padding: .5em;  margin: .5em;
+  padding: .5em;  margin: 1.5em;
   width: 48vw; height: 90vh;
   border: 1px solid;
   background: white; color: #222;
@@ -116,69 +116,68 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `
-Chris Guan
+        fullMarkdown: `Chris Guan
 ----
-Software Developer
+**Software Developer**
 
 
 Skills
 ----
-* Language：Java, JavaScript, Ruby, Python, TypeScript
-* Frontend Framework: React, Angular2
-* Web app Framework: Express, Django, Flask, RubyOnRails
-* Database: MongoDB, Redis, PostgreSQL, SQLite3
-* DevOps: Jenkins, Aws CodePipelin, EC2, IMA, Route53, CloudWatch
-* Others: Docker, Nginx, RabbitMQ, Postman, NodeJS, Materialize, HTML, CSS, Git
+* **Language**：Java, JavaScript, Ruby, Python, TypeScript
+* **Frontend** Framework: React, Angular2
+* **Web App Framework**: Express, Django, Flask, RubyOnRails
+* **Database**: MongoDB, Redis, PostgreSQL, SQLite3
+* **DevOps**: Jenkins, Aws CodePipelin, EC2, IMA, Route53, CloudWatch
+* **Others**: Docker, Nginx, RabbitMQ, Postman, NodeJS, Materialize, HTML, CSS, Git
 
 
 Projects
 ----
-<ol>
-<li>Scape News: Real Time News Scraping and Filtering System.</li>
-<ul>
-<a href="http://" target="_blank">Demo</a> <br>
-<a href="http://www.thescapenews.com" target="_blank">Site</a> <br>
-<a href="https://github.com/klhang/Scape-News" target="_blank">GitHub</a>  <br>
+* **Scape News: Real Time News Scraping and Filtering System.**
+
+<a href="http://" target="_blank">Demo</a>
+<a href="http://www.thescapenews.com" target="_blank">Site</a>
+<a href="https://github.com/klhang/Scape-News" target="_blank">GitHub</a>
+
 Skills: JavaScript, Java, Python, React, Express, Node.js, Flask, Redis, MongoDB, RabbitMQ, TF-IDF, Postman, Jenkins, Aws.
-</ul>
-<br>
-<br>
+___
 
 
-<li>Translate Overflow: A System for Sharing and Improving Translation Skills.</li>
-<ul>
-<a href="http://" target="_blank">Demo</a> <br>
-<a href="https://translateoverflow.herokuapp.com" target="_blank">Site</a> <br>
-<a href="https://github.com/Adrianjewell91/tl_overflow" target="_blank">GitHub</a>  <br>
+* **Translate Overflow: A System for Sharing and Improving** Translation Skills.
+
+<a href="http://" target="_blank">Demo</a>
+<a href="https://translateoverflow.herokuapp.com" target="_blank">Site</a>
+<a href="https://github.com/Adrianjewell91/tl_overflow" target="_blank">GitHub</a>
+
 Skills: JavaScript, Python, React, Django, SQLite3, Materialize, RESTful API, CSS, HTML
-</ul>
-<br>
-<br>
+___
 
-<li>CodeLab: A Collaborative Online Coding System.</li>
-<ul>
-<a href="http://" target="_blank">Demo</a> <br>
-<a href="http://www.thescapenews.com" target="_blank">Site</a> <br>
-<a href="https://github.com/klhang/Collaborative-Online-Judge" target="_blank">GitHub</a>  <br>
+
+* **CodeLab: A Collaborative Online Coding System.**
+
+<a href="http://" target="_blank">Demo</a>
+<a href="http://www.thescapenews.com" target="_blank">Site</a>
+<a href="https://github.com/klhang/Collaborative-Online-Judge" target="_blank">GitHub</a>
+
 Skills: JavaScript, TypeScript, Python, Angular2, Node.js, Flask, Redis, MongoDB, Docker, RESTful API, Nginx, Jenkins, Aws
-</ul>
-<br>
-<br>
+___
 
-<li>Clora: A Clone System of Quora.</li>
-<ul>
-<a href="http://" target="_blank">Demo</a> <br>
-<a href="https://tryclora.herokuapp.com/" target="_blank">Site</a> <br>
-<a href="https://github.com/klhang/Clora">GitHub</a>  <br>
+
+* **Clora: A Clone System of Quora.**
+
+<a href="http://" target="_blank">Demo</a>
+<a href="https://tryclora.herokuapp.com/" target="_blank">Site</a>
+<a href="https://github.com/klhang/Clora">GitHub</a>
+
 Skills: JavaScript, Ruby, React, Redux, Ruby on Rials, JQuery, RESTful API, Heroku, Postman
-</ul>
-</ol>
+___
+
 
 Link
 ----
-<a href="https://www.github.com/klhang" target="_blank">GitHub</a>  <br>
-<a href="https://www.linkedin.com/in/chris-guan" target="_blank">Linkedin</a>  <br>
+<a href="https://www.github.com/klhang" target="_blank">GitHub</a>
+<a href="https://www.linkedin.com/in/chris-guan" target="_blank">Linkedin</a>
+
 `
       }
     },
