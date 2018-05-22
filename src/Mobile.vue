@@ -26,7 +26,7 @@
 /*
 * Inspired by http://strml.net/
 * Hi, I am Chris Guan.
-* People are saying the summer hiring season is coming, I think I should also doing something.
+* People are saying the summer hiring season is coming... I'd better build a website for myself.
 * Alright, let me start with my resume.
 */
 
@@ -39,7 +39,7 @@ html {
   color: rgb(222,222,222);
   background: rgb(0,43,54);
 }
-/* The texts seem to be too close to the boarder */
+/* The texts seem to be too close to the border */
 .styleEditor {
   padding: .5em;
   border: 1px solid;
@@ -52,7 +52,7 @@ html {
 .styleEditor {
   height: 45vh;
 }
-/* And let's highlight the codes */
+/* And let's highlight the code */
 .token.selector{
   color: rgb(133,153,0);
 }
@@ -90,7 +90,7 @@ html{
 
 `,
           `
-/* Em... this looks wired
+/* Hmm... this looks weird
  * Oh，this is in Markdown，I want it to be more HR-friendly
  * Let me turn it into HTML
  */
@@ -245,7 +245,7 @@ Link
       progressivelyShowResume() {
         return new Promise((resolve, reject) => {
           let length = this.fullMarkdown.length
-          let interval = this.interval
+          let interval = this.interval - 10
           let showResume = () => {
             if (this.currentMarkdown.length < length) {
               this.currentMarkdown = this.fullMarkdown.substring(0, this.currentMarkdown.length + 1)
