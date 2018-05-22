@@ -137,9 +137,8 @@ Projects
 
 <a href="http://" target="_blank">Demo</a>
 <a href="http://www.thescapenews.com" target="_blank">Site</a>
-<a href="https://github.com/klhang/Scape-News" target="_blank">GitHub</a>
 
-Skills: JavaScript, Java, Python, React, Express, Node.js, Flask, Redis, MongoDB, RabbitMQ, TF-IDF, Postman, Jenkins, Aws.
+Skills: JavaScript, Java, Python, React, Express, Flask, Redis, MongoDB, RabbitMQ, TF-IDF, Jenkins, Aws.
 ___
 
 
@@ -147,9 +146,8 @@ ___
 
 <a href="http://" target="_blank">Demo</a>
 <a href="https://translateoverflow.herokuapp.com" target="_blank">Site</a>
-<a href="https://github.com/Adrianjewell91/tl_overflow" target="_blank">GitHub</a>
 
-Skills: JavaScript, Python, React, Django, SQLite3, Materialize, RESTful API, CSS, HTML
+Skills: Python, React, Django, SQLite3, Materialize, RESTful API, CSS, HTML
 ___
 
 
@@ -157,9 +155,8 @@ ___
 
 <a href="http://" target="_blank">Demo</a>
 <a href="http://www.thescapenews.com" target="_blank">Site</a>
-<a href="https://github.com/klhang/Collaborative-Online-Judge" target="_blank">GitHub</a>
 
-Skills: JavaScript, TypeScript, Python, Angular2, Node.js, Flask, Redis, MongoDB, Docker, RESTful API, Nginx, Jenkins, Aws
+Skills: TypeScript, Python, Angular2, Node.js, NodeJS, Redis, MongoDB, Docker, RESTful API, Nginx, Jenkins, Aws
 ___
 
 
@@ -167,9 +164,8 @@ ___
 
 <a href="http://" target="_blank">Demo</a>
 <a href="https://tryclora.herokuapp.com/" target="_blank">Site</a>
-<a href="https://github.com/klhang/Clora">GitHub</a>
 
-Skills: JavaScript, Ruby, React, Redux, Ruby on Rials, JQuery, RESTful API, Heroku, Postman
+Skills: JavaScript, Ruby, React, Redux, Ruby on Rials, JQuery, RESTful API, Postman
 ___
 
 
@@ -179,6 +175,7 @@ Link
 
 <a href="https://www.linkedin.com/in/chris-guan" target="_blank">Linkedin</a>
 
+a href="https://www.linkedin.com/in/chris-guan" target="_blank">Click here to download Chris’s resume.</a>
 `
       }
     },
