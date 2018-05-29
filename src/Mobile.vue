@@ -25,6 +25,7 @@
           `
 /*
 * Inspired by http://strml.net/
+*
 * Hi, I am Chris Guan.
 * People are saying the summer hiring season is coming... I'd better build a website for myself.
 * Alright, let me start with my resume.
@@ -147,6 +148,14 @@ Skills
 
 Projects
 ----
+* **CodeLab: A Collaborative Online Coding System.**
+
+<a href="http://" target="_blank">Demo</a>
+<a href="http://www.codelabsystems.com" target="_blank">Site</a>
+
+Skills: TypeScript, Python, Angular2, NodeJS, Redis, MongoDB, Docker, RESTful API, Nginx, Jenkins, Aws
+----
+
 * **Scape News: Real Time News Scraping and Filtering System.**
 
 <a href="http://" target="_blank">Demo</a>
@@ -160,26 +169,16 @@ ___
 
 <a href="http://" target="_blank">Demo</a>
 <a href="https://translateoverflow.herokuapp.com" target="_blank">Site</a>
-<a href="https://github.com/Adrianjewell91/tl_overflow" target="_blank">GitHub</a>
 
 Skills: JavaScript, Python, React, Django, SQLite3, Materialize, RESTful API, Postman
 ___
 
 
-* **CodeLab: A Collaborative Online Coding System.**
+* **Curiosity: A Clone System of Quora.**
 
 <a href="http://" target="_blank">Demo</a>
-<a href="http://www.thescapenews.com" target="_blank">Site</a>
+<a href="http://www.goodcuriosity.com" target="_blank">Site</a>
 
-Skills: TypeScript, Python, Angular2, NodeJS, Redis, MongoDB, Docker, RESTful API, Nginx, Jenkins, Aws
-___
-
-
-* **Clora: A Clone System of Quora.**
-
-<a href="http://" target="_blank">Demo</a>
-<a href="https://tryclora.herokuapp.com/" target="_blank">Site</a>
-<a href="https://github.com/klhang/Clora">GitHub</a>
 
 Skills: JavaScript, Ruby, React, Redux, Ruby on Rials, JQuery, RESTful API, Postman
 ___
