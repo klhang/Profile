@@ -162,7 +162,7 @@ Skills: TypeScript, Python, Angular2, NodeJS, Redis, MongoDB, Docker, RESTful AP
 <a href="http://www.thescapenews.com" target="_blank">Site</a>
 
 Skills: JavaScript, Java, Python, React, Express, Flask, Redis, MongoDB, RabbitMQ, TF-IDF, Jenkins, Aws
-___
+----
 
 
 * **Translate Overflow: A System for Sharing and Improving** Translation Skills.
@@ -171,7 +171,7 @@ ___
 <a href="https://translateoverflow.herokuapp.com" target="_blank">Site</a>
 
 Skills: JavaScript, Python, React, Django, SQLite3, Materialize, RESTful API, Postman
-___
+----
 
 
 * **Curiosity: A Clone System of Quora.**
@@ -181,7 +181,7 @@ ___
 
 
 Skills: JavaScript, Ruby, React, Redux, Ruby on Rials, JQuery, RESTful API, Postman
-___
+----
 
 
 Link
