@@ -154,7 +154,8 @@ Projects
 <a href="http://www.codelabsystems.com" target="_blank">Site</a>
 
 Skills: TypeScript, Python, Angular2, NodeJS, Redis, MongoDB, Docker, RESTful API, Nginx, Jenkins, Aws
-----
+
+---
 
 * **Scape News: Real Time News Scraping and Filtering System.**
 
@@ -162,7 +163,8 @@ Skills: TypeScript, Python, Angular2, NodeJS, Redis, MongoDB, Docker, RESTful AP
 <a href="http://www.thescapenews.com" target="_blank">Site</a>
 
 Skills: JavaScript, Java, Python, React, Express, Flask, Redis, MongoDB, RabbitMQ, TF-IDF, Jenkins, Aws
-----
+
+---
 
 
 * **Translate Overflow: A System for Sharing and Improving** Translation Skills.
@@ -171,7 +173,8 @@ Skills: JavaScript, Java, Python, React, Express, Flask, Redis, MongoDB, RabbitM
 <a href="https://translateoverflow.herokuapp.com" target="_blank">Site</a>
 
 Skills: JavaScript, Python, React, Django, SQLite3, Materialize, RESTful API, Postman
-----
+
+---
 
 
 * **Curiosity: A Clone System of Quora.**
@@ -181,7 +184,8 @@ Skills: JavaScript, Python, React, Django, SQLite3, Materialize, RESTful API, Po
 
 
 Skills: JavaScript, Ruby, React, Redux, Ruby on Rials, JQuery, RESTful API, Postman
-----
+
+---
 
 
 Link
