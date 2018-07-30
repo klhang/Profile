@@ -142,50 +142,40 @@ Skills
 * **Frontend** Framework: React, Angular2
 * **Web App Framework**: Express, Django, Flask, RubyOnRails
 * **Database**: MongoDB, Redis, PostgreSQL, SQLite3
-* **DevOps**: Jenkins, Aws CodePipelin, EC2, IMA, Route53, CloudWatch
+* **DevOps**: Jenkins, AWS CodePipelin, EC2, IMA, Route53, CloudWatch
 * **Others**: Docker, Nginx, RabbitMQ, Postman, NodeJS, Materialize, HTML, CSS, Git
 
 
 Projects
 ----
-* **CodeLab: A Collaborative Online Coding System.**
 
-<a href="http://" target="_blank">Demo</a>
-<a href="http://www.codelabsystems.com" target="_blank">Site</a>
+* **CodeLab: A Collaborative Online Coding System.**  <a href="http://www.codelabsystems.com" target="_blank">LIVE</a>
 
-Skills: TypeScript, Python, Angular2, NodeJS, Redis, MongoDB, Docker, RESTful API, Nginx, Jenkins, Aws
-
----
-
-* **Scape News: Real Time News Scraping and Filtering System.**
-
-<a href="http://" target="_blank">Demo</a>
-<a href="http://www.thescapenews.com" target="_blank">Site</a>
-
-Skills: JavaScript, Java, Python, React, Express, Flask, Redis, MongoDB, RabbitMQ, TF-IDF, Jenkins, Aws
+Skills: TypeScript, Python, Angular2, Node.js, NodeJS, Redis, MongoDB, Docker, RESTful API, Nginx, Jenkins, AWS
 
 ---
 
 
-* **Translate Overflow: A System for Sharing and Improving** Translation Skills.
+* **Scape News: Real Time News Scraping and Filtering System.**  <a href="http://www.thescapenews.com" target="_blank">LIVE</a>
 
-<a href="http://" target="_blank">Demo</a>
-<a href="https://translateoverflow.herokuapp.com" target="_blank">Site</a>
-
-Skills: JavaScript, Python, React, Django, SQLite3, Materialize, RESTful API, Postman
+Skills: JavaScript, Java, Python, React, Express, Flask, Redis, MongoDB, RabbitMQ, TF-IDF, Jenkins, AWS
 
 ---
 
 
-* **Curiosity: A Clone System of Quora.**
+* **Curiosity: A Clone System of Quora.**  <a href="http://www.goodcuriosity.com" target="_blank">LIVE</a>
 
-<a href="http://" target="_blank">Demo</a>
-<a href="http://www.goodcuriosity.com" target="_blank">Site</a>
-
-
-Skills: JavaScript, Ruby, React, Redux, Ruby on Rials, JQuery, RESTful API, Postman
+Skills: JavaScript, Ruby, React, Redux, Ruby on Rials, JQuery, RESTful API
 
 ---
+
+
+* **Translate Overflow: A System for Sharing and Improving Translation Skills.**  <a href="https://translateoverflow.herokuapp.com" target="_blank">LIVE</a>
+
+Skills: Python, React, Django, SQLite3, Materialize, RESTful API, Postman
+
+---
+
 
 
 Link
@@ -194,7 +184,7 @@ Link
 
 <a href="https://www.linkedin.com/in/chris-guan" target="_blank">Linkedin</a>
 
-<a href="https://www.linkedin.com/in/chris-guan" target="_blank">Click here to download Chris’s resume.</a>
+<a href="http://res.cloudinary.com/klhang/image/upload/v1532936393/ChrisGuan_resume.pdf" target="_blank">Click here to download Chris’s resume.</a>
 `
       }
     },
