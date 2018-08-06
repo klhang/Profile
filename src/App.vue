@@ -24,10 +24,10 @@
         fullStyle: [
           `
 /*
-* Inspired by http://strml.net/
-* Hi, I am Chris Guan.
-* People are saying the summer hiring season is coming... I'd better build a website for myself.
-* Alright, let me start with my resume.
+*
+* Hi, I am Chris Guan, a software developer based in SF bay area.
+*
+* For you to better know me, let me start with my resume.
 */
 
 /* First, I need to add some animation on all of the elements */
@@ -79,7 +79,7 @@ html{
 `,
           `
 /* Hmm... this looks weird
- * Oh，this is in Markdown，I want it to be more HR-friendly
+ * Oh，this is in Markdown，I want it to be more reader-friendly
  * Let me turn it into HTML
  */
 `
